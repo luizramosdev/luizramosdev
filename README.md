@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luiz Ramos 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando TypeScript
 - 😄 Pronouns: ele/dele
 
 <div>
