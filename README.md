@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando TypeScript
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/luizramosdev">
